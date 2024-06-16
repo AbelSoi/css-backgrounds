@@ -1,0 +1,17 @@
+div p#para1 {
+    background-color: lightblue;
+}
+div p#para2 {
+    background-color: pink;
+}
+div p#para3 {
+    background-color: aquamarine;
+}
+body h1 {
+    background-color: burlywood;
+    width: 70%;
+}
+div p {
+    width: 70%;
+    opacity: 1.0;
+}
